@@ -30,7 +30,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/GOKUL-R18/revenue-insights-in-hospitality-domain/blob/main/Resources/data_model%20for%20Atliq%20grand.png' height="400">
+    <img src='https://github.com/GOKUL-R18/revenue-insights-in-hospitality-domain/blob/main/Resources/data_model%20for%20Atliq%20grand.png' width="600">
 </p>
 
 
